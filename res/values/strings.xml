@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">qrkodea</string>
+    <string name="hello_world">LZZ</string>
+    <string name="menu_settings">Settings</string>
+    <string name="hasi">hasi</string>
+    
+    <string-array name="datuak">
+        
+    </string-array>
+
+</resources>
